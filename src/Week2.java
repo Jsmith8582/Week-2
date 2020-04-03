@@ -6,6 +6,6 @@ public class Week2 {
 
 		
 		System.out.println("Can this one push out?");
-	}
+	}am I alive?
 
 }
