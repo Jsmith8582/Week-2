@@ -21,6 +21,10 @@ public class ResearchPractice {
 //			
 //		
 		
+		boolean IsWeekday = true;
+		boolean IsSummer = true;
+		boolean IsSchoolDay = IsWeekday && !IsSummer;
+		System.out.println(IsSchoolDay);
 	}
 
 }
