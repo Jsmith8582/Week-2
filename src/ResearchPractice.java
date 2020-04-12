@@ -4,7 +4,7 @@ public class ResearchPractice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		for (int z = 0; z <= 20; z += 4) {
+		for (int z = 0; z <= 20; z ++) {
 			System.out.println(z);
 		}
 		

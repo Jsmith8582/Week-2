@@ -60,13 +60,6 @@ public class Week2 {
 			System.out.println(WillBuyMilk);
 			
 			
-//	5	
-		int I = 0;
-		while (I <= 100) {
-		System.out.println(I);
-		I += 2;
-		}
-			
-	}
 
+	}
 }
